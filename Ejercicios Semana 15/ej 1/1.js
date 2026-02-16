@@ -1,4 +1,4 @@
-console.log();
+console.log('=== EJERCICIO 01 - Contar elementos de un array ===');
 {
     const nums = [7, 4, 0, 9, 7, 6, 3, 8];
     let contador = 0;
